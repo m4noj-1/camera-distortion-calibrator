@@ -51,7 +51,8 @@ Given a single photograph of a **planar rectangular grid** captured with unknown
 <img width="1236" height="987" alt="image" src="https://github.com/user-attachments/assets/b694b354-e6be-4313-b4b3-706ab064b60f" />
 
 Json Output
-<img width="1238" height="745" alt="image" src="https://github.com/user-attachments/assets/58900c53-63a2-4905-b664-883ac485b2b1" />
+<img width="1396" height="807" alt="image" src="https://github.com/user-attachments/assets/8c191258-fe7d-4c98-8319-397f06c312dd" />
+
 
 
 
