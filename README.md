@@ -48,7 +48,6 @@ Given a single photograph of a **planar rectangular grid** captured with unknown
 💡 *Fully compatible with Google Colab — no local setup needed!*
 
 📸 Sample Results
-<img width="1325" height="575" alt="image" src="https://github.com/user-attachments/assets/075f0c5f-338c-4684-8d80-3eb9f7862b9f" />
 <img width="1323" height="961" alt="image" src="https://github.com/user-attachments/assets/e3967b89-5687-4ff9-8316-52db84772691" />
 
 Json Output
